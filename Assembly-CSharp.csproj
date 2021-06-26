@@ -56,92 +56,95 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManomotionBase.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManomotionManager.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManoSettings.cs" />
-    <Compile Include="Assets\Manomotion\UIBlurEffect\Scripts\Grayscale.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\DetectionInstruction.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Data Structure\TrackingInfo.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\Manomotion\Scripts\Data Structure\HandInfo.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\ApplicationManager.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\InstructionVisualization.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
     <Compile Include="Assets\Manomotion\Examples\Detection\Scripts\ExampleDetectionEdges.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\InstructionManoVisualization.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Data Structure\Session.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\ManoVisualization\ToggleVisualizationValues.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Data Structure\VisualizationInfo.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\MainMenu\IconMainMenu.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\HowToInstructor.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
-    <Compile Include="Assets\Manomotion\Examples\Blocks\Scripts\SpawnPoint.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\MainMenu\ToggleGizmos.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Gizmos\GizmoManager.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\ManoVisualization\BoundingBoxUI.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
-    <Compile Include="Assets\ManoMotion ARFoundation\Scripts\ExampleDetectionCanvas.cs" />
-    <Compile Include="Assets\Manomotion\Examples\Blocks\Scripts\CubeGameManager.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Data Structure\GestureInfo.cs" />
-    <Compile Include="Assets\Manomotion\Examples\Spooky\Scripts\ExampleSpooky.cs" />
     <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManoMotionFrame.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Gizmos\TriggerGizmo.cs" />
-    <Compile Include="Assets\Manomotion\Examples\Blocks\Scripts\CubeSpawn.cs" />
-    <Compile Include="Assets\ManoMotion ARFoundation\Examples\Inetraction\Scripts\HandCollider.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\HowToAnimations.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Data Structure\HandInfoUnity.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
     <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\Instruction.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
     <Compile Include="Assets\ManoMotion ARFoundation\Examples\Inetraction\Scripts\ARCubeInteraction.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\ManoVisualization\ManoVisualization.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\StartApplicationInstruction.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Util Tools\ManoUtils.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\MainMenu\MenuButton.cs" />
     <Compile Include="Assets\Manomotion\UIBlurEffect\Scripts\GrabPass.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\MainMenu\ManomotionUIManagment.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
-    <Compile Include="Assets\ManoMotion ARFoundation\Scripts\InputManagerArFoundation.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
     <Compile Include="Assets\Manomotion\Scripts\MainMenu\CategoryManager.cs" />
+    <Compile Include="Assets\Manomotion\UIBlurEffect\Scripts\BWEffect.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManoSettings.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\DetectionInstruction.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\ManoVisualization\ToggleVisualizationValues.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\MainMenu\IconMainMenu.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\HowToInstructor.cs" />
+    <Compile Include="Assets\ManoMotion ARFoundation\Scripts\ExampleDetectionCanvas.cs" />
+    <Compile Include="Assets\Manomotion\Examples\Spooky\Scripts\ExampleSpooky.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Data Structure\GestureInfo.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\HowToAnimations.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\ManoVisualization\ManoVisualization.cs" />
     <Compile Include="Assets\Manomotion\Scripts\ManoVisualization\BoundingBox.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\RunTimeApplication.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+    <Compile Include="Assets\Manomotion\Examples\Blocks\Scripts\CubeSpawn.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Data Structure\HandInfoUnity.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+    <Compile Include="Assets\ManoMotion ARFoundation\Scripts\InputManagerArFoundation.cs" />
     <Compile Include="Assets\Manomotion\Scripts\Data Structure\InputManagerPhoneCamera.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Util Tools\ManoEvents.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\HandSideInstruction.cs" />
+    <Compile Include="Assets\Manomotion\UIBlurEffect\Scripts\Grayscale.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Data Structure\TrackingInfo.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\ApplicationManager.cs" />
+    <Compile Include="Assets\Manomotion\Examples\Blocks\Scripts\SpawnPoint.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\MainMenu\ToggleGizmos.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Gizmos\TriggerGizmo.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
     <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\GestureInstruction.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\MainMenu\UIIconBehavior.cs" />
+    <Compile Include="Assets\ConsoleToGUI.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManomotionManager.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Data Structure\Session.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Data Structure\VisualizationInfo.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\ManoVisualization\BoundingBoxUI.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+    <Compile Include="Assets\Manomotion\Examples\Blocks\Scripts\CubeGameManager.cs" />
+    <Compile Include="Assets\ManoMotion ARFoundation\Examples\Inetraction\Scripts\HandCollider.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\MainMenu\MenuButton.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\MainMenu\ManomotionUIManagment.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\MainMenu\PrivacyPolicyDisclaimair.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManomotionBase.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\InstructionManoVisualization.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Gizmos\GizmoManager.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\StartApplicationInstruction.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
     <Compile Include="Assets\Manomotion\Scripts\MainMenu\Category.cs" />
     <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManoLicense.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\Util Tools\ManoEvents.cs" />
     <Compile Include="Assets\Manomotion\Scripts\Data Structure\InputManagerBaseClass.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\RunTimeApplication.cs" />
-    <Compile Include="Assets\Manomotion\UIBlurEffect\Scripts\BWEffect.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
-    <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\HandSideInstruction.cs" />
-    <Compile Include="Assets\Manomotion\Scripts\MainMenu\PrivacyPolicyDisclaimair.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
-    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
-    <Compile Include="Assets\ConsoleToGUI.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+    <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\InstructionVisualization.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\Util Tools\ManoUtils.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\Manomotion\Scripts\MainMenu\UIIconBehavior.cs" />
+    <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+    <Compile Include="Assets\GrabToy.cs" />
+    <Compile Include="Assets\Enabler.cs" />
+    <Compile Include="Assets\FindFloor.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -736,6 +739,9 @@
     <Reference Include="System.Xml.Serialization">
       <HintPath>C:\Program Files\2020.3.12f1\Editor\Data\NetStandard\compat\2.0.0\shims\netfx\System.Xml.Serialization.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.XR.ARKit">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.ARKit.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.VSCode.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VSCode.Editor.dll</HintPath>
     </Reference>
@@ -745,14 +751,23 @@
     <Reference Include="Unity.VisualStudio.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.VisualStudio.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.Timeline.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    <Reference Include="Unity.XR.Management.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
       <HintPath>Library\ScriptAssemblies\Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
       <HintPath>Library\ScriptAssemblies\Unity.TextMeshPro.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARCore.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.ARCore.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARKit.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.ARKit.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Subsystem.Registration">
+      <HintPath>Library\ScriptAssemblies\Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
       <HintPath>Library\ScriptAssemblies\UnityEditor.UI.dll</HintPath>
@@ -769,8 +784,26 @@
     <Reference Include="UnityEngine.SpatialTracking">
       <HintPath>Library\ScriptAssemblies\UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
+    <Reference Include="Unity.EditorCoroutines.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+      <HintPath>Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.Timeline.Editor">
+      <HintPath>Library\ScriptAssemblies\Unity.Timeline.Editor.dll</HintPath>
+    </Reference>
     <Reference Include="Unity.XR.ARSubsystems.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.XR.ARSubsystems.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
+      <HintPath>Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.Management">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.XR.ARCore">
+      <HintPath>Library\ScriptAssemblies\Unity.XR.ARCore.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARSubsystems">
       <HintPath>Library\ScriptAssemblies\Unity.XR.ARSubsystems.dll</HintPath>
@@ -778,41 +811,11 @@
     <Reference Include="Unity.XR.ARFoundation.Editor">
       <HintPath>Library\ScriptAssemblies\Unity.XR.ARFoundation.Editor.dll</HintPath>
     </Reference>
-    <Reference Include="Unity.XR.Management.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.Management.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.Subsystem.Registration">
-      <HintPath>Library\ScriptAssemblies\Unity.Subsystem.Registration.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-      <HintPath>Library\ScriptAssemblies\UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
       <HintPath>Library\ScriptAssemblies\UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.ARFoundation">
       <HintPath>Library\ScriptAssemblies\Unity.XR.ARFoundation.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.Management">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.Management.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-      <HintPath>Library\ScriptAssemblies\UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.ARCore.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.ARCore.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.ARCore">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.ARCore.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.ARKit.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.ARKit.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.EditorCoroutines.Editor">
-      <HintPath>Library\ScriptAssemblies\Unity.EditorCoroutines.Editor.dll</HintPath>
-    </Reference>
-    <Reference Include="Unity.XR.ARKit">
-      <HintPath>Library\ScriptAssemblies\Unity.XR.ARKit.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

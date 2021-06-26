@@ -23,12 +23,25 @@ public class HandCollider : MonoBehaviour
     private TrackingInfo tracking;
     public Vector3 currentPosition;
 
+    private void Awake()
+    {
+        ManomotionManager.OnManoMotionFrameProcessed += HandleManoMotionFrameProcessed;
+        gameObject.tag = "Player";
+    }
+
+    void HandleManoMotionFrameProcessed()
+    {
+/*        GestureInfo gesture = ManomotionManager.Instance.Hand_infos[0].hand_info.gesture_info;
+        TrackingInfo trackingInfo = ManomotionManager.Instance.Hand_infos[0].hand_info.tracking_info;
+        Warning warning = ManomotionManager.Instance.Hand_infos[0].hand_info.warning;*/
+
+    }
     /// <summary>
     /// Set the hand collider tag.
     /// </summary>
     private void Start()
     {
-        gameObject.tag = "Player";
+
     }
 
     /// <summary>

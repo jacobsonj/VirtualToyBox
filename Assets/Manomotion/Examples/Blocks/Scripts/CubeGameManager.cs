@@ -137,7 +137,7 @@ public class CubeGameManager : MonoBehaviour
 				instructions.SetActive(!gameHasStarted);
 				scoreKeeper.enabled = gameHasStarted;
 			}
-
+			
 			Ray ray = Camera.main.ScreenPointToRay(cursorRectTransform.position);
             RaycastHit hit;
 
