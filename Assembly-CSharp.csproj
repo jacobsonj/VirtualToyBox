@@ -58,6 +58,7 @@
   <ItemGroup>
     <Compile Include="Assets\Manomotion\Scripts\Data Structure\HandInfo.cs" />
     <Compile Include="Assets\Manomotion\Examples\Detection\Scripts\ExampleDetectionEdges.cs" />
+    <Compile Include="Assets\FindFloor.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
     <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManoMotionFrame.cs" />
     <Compile Include="Assets\Manomotion\ApplicationIntro\Instructions\Instruction.cs" />
@@ -96,6 +97,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+    <Compile Include="Assets\GrabToy.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
     <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\ApplicationManager.cs" />
     <Compile Include="Assets\Manomotion\Examples\Blocks\Scripts\SpawnPoint.cs" />
@@ -119,6 +121,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
     <Compile Include="Assets\Manomotion\Scripts\MainMenu\MenuButton.cs" />
     <Compile Include="Assets\Manomotion\Scripts\MainMenu\ManomotionUIManagment.cs" />
+    <Compile Include="Assets\Enabler.cs" />
     <Compile Include="Assets\Manomotion\Scripts\MainMenu\PrivacyPolicyDisclaimair.cs" />
     <Compile Include="Assets\Manomotion\Scripts\Data Structure\ManomotionBase.cs" />
     <Compile Include="Assets\Manomotion\ApplicationIntro\Scripts\InstructionManoVisualization.cs" />
@@ -142,9 +145,7 @@
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
     <Compile Include="Assets\Manomotion\Scripts\MainMenu\UIIconBehavior.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
-    <Compile Include="Assets\GrabToy.cs" />
-    <Compile Include="Assets\Enabler.cs" />
-    <Compile Include="Assets\FindFloor.cs" />
+    <Compile Include="Assets\Scripts\ToySpawner.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
@@ -393,6 +394,15 @@
     </Reference>
     <Reference Include="Newtonsoft.Json">
       <HintPath>Library\PackageCache\com.unity.nuget.newtonsoft-json@2.0.0\Runtime\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:\Program Files\2020.3.12f1\Editor\Data\PlaybackEngines\AppleTVSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:\Program Files\2020.3.12f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>C:\Program Files\2020.3.12f1\Editor\Data\PlaybackEngines\iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:\Program Files\2020.3.12f1\Editor\Data\NetStandard\ref\2.0.0\netstandard.dll</HintPath>
